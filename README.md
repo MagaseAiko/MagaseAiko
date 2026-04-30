@@ -1,5 +1,8 @@
 # 💫 Sobre Mim:
-- Técnico em Mecatrônica e estudante de Engenharia de Computação  <br>- Interesse em automação, eletrônica e desenvolvimento de software  <br>- 🇯🇵 Estudante de japonês (N2)<br>- Curto música (principalmente japonesa), jogos e projetos pessoais  
+- Técnico em Mecatrônica e estudante de Engenharia de Computação  
+- Interesse em automação, eletrônica e desenvolvimento de software  
+- 🇯🇵 Estudante de japonês (N2)
+- Goste de música (principalmente japonesa), jogos, animes e projetos pessoais  
 
 
 ## 🌐 Socials:
@@ -11,8 +14,3 @@
 ![](https://github-readme-stats.shion.dev/api?username=MagaseAiko&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=MagaseAiko&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MagaseAiko&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=MagaseAiko&icon=0&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

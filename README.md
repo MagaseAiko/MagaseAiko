@@ -2,7 +2,7 @@
 - Técnico em Mecatrônica e estudante de Engenharia de Computação  
 - Interesse em automação, eletrônica e desenvolvimento de software  
 - 🇯🇵 Estudante de japonês (N2)
-- Goste de música (principalmente japonesa), jogos, animes e projetos pessoais  
+- Gosto de música, jogos, animes e projetos pessoais
 
 
 ## 🌐 Socials:
